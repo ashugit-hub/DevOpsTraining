@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "cloud-ops-project/1.0.0": {
+        "runtime": {
+          "cloud-ops-project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cloud-ops-project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

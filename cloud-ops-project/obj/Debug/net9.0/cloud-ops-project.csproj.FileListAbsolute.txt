@@ -1,0 +1,14 @@
+/Users/user/DevOpsTraining/cloud-ops-project/bin/Debug/net9.0/cloud-ops-project
+/Users/user/DevOpsTraining/cloud-ops-project/bin/Debug/net9.0/cloud-ops-project.deps.json
+/Users/user/DevOpsTraining/cloud-ops-project/bin/Debug/net9.0/cloud-ops-project.runtimeconfig.json
+/Users/user/DevOpsTraining/cloud-ops-project/bin/Debug/net9.0/cloud-ops-project.dll
+/Users/user/DevOpsTraining/cloud-ops-project/bin/Debug/net9.0/cloud-ops-project.pdb
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/cloud-ops-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/cloud-ops-project.AssemblyInfoInputs.cache
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/cloud-ops-project.AssemblyInfo.cs
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/cloud-ops-project.csproj.CoreCompileInputs.cache
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/cloud-ops-project.dll
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/refint/cloud-ops-project.dll
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/cloud-ops-project.pdb
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/cloud-ops-project.genruntimeconfig.cache
+/Users/user/DevOpsTraining/cloud-ops-project/obj/Debug/net9.0/ref/cloud-ops-project.dll
